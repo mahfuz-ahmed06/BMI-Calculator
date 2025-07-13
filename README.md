@@ -1,0 +1,1 @@
+This is a BMI Calculator. You can calculate your BMI using this calcutor by inputing your Height,Weight and Age.
