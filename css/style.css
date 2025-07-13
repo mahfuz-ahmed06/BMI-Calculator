@@ -1,0 +1,75 @@
+
+
+body{
+    background: #F2F3F4;
+    text-align: center;
+    margin-top: 10%;
+}
+
+.head{
+    font-size: 24px;
+}
+
+.height-1 input{
+    padding: 12px 0;
+    border-radius: 5px;
+    border: 1px #dee1e1 solid;
+    margin-bottom: 24px;
+    outline: pink;
+    margin-left: 14px;
+}
+
+.height-2 input{
+    padding: 12px 0;
+    border-radius: 5px;
+    border: 1px #dee1e1 solid;
+    margin-bottom: 24px;
+    outline: 0;
+    margin-left: 8px;
+}
+
+.weight input{
+    padding: 12px 0;
+    border-radius: 5px;
+    border: 1px #dee1e1 solid;
+    margin-bottom: 24px;
+    outline: 0;
+    margin-left: 22px;
+}
+
+#submit{
+    color: #ffffff;
+    padding: 13px 35px;
+    background-color: #00e1f0;
+    font-size: 18px;
+    font-weight: 500;
+    border: 1px #00e1f0 solid;
+    border: 0;
+    border-radius: 8px;
+    outline: 0;
+    margin-bottom: 32px;
+}
+#submit:hover{
+    background-color: #fff;
+    padding: 12px 34px;
+    border: 1px #00e1f0 solid;
+    color: #00e1f0;
+    font-weight: 500;
+}
+
+/* .result{
+    border: 1px #00e1f0 solid;
+    text-align: center;
+} */
+
+.result p{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    /* border: 1px #00e1f0 solid; */
+    text-align: center;
+}
+
+.bmiResult{
+    color: rgb(67, 2, 2);
+}
