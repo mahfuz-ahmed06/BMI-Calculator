@@ -44,6 +44,8 @@ submit.addEventListener('click', function(e){
         let bmi = document.getElementById('bmiResult')
     
         bmi.innerHTML = 'You are obes'
+
+        advice.innerHTML = `Losing weight will give you more energy and help to reduce the risk of obesity, heart disease and type 2 diabetes.`
     }
 })
 
